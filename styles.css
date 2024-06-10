@@ -105,3 +105,16 @@ body{
     color: white;
     border: none;
 }
+
+
+.score{
+    display: flex;
+    width: 50vh;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.text1{
+    font-size: 30px;
+}
